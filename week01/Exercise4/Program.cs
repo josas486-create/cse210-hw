@@ -57,3 +57,4 @@ class Program
             Console.WriteLine("No numbers were entered.");
         }
     }
+}
